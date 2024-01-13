@@ -15,8 +15,8 @@ Score points by making the ball pass the opponent's paddle.
 
 #### Game Features:
 
-The game continues until a specified score limit is reached.
-The ball's speed increase as the game progresses.
+- The game continues save players score to a file.
+- The ball's speed increase as the game progresses.
 
 #### How to Run the Game:
 To run the game, make sure you have Python installed on your system. Open a terminal or command prompt, navigate to the project directory, and run the following command:
