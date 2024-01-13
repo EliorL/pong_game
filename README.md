@@ -1,5 +1,5 @@
-2-Player Pong Game in Python with turtle module
-Welcome to the 2-Player Pong Game! This simple game allows two players to compete against each other in a classic Pong match, 
+2-Player Pong Game in Python with turtle module.
+This game allows two players to compete against each other in a classic Pong match, 
 controlling their respective paddles using different sets of keys.
 
 Instructions
