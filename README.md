@@ -4,14 +4,9 @@ controlling their respective paddles using different sets of keys.
 
 #### Instructions:
 
-Player 1 Controls:
+- Player 1 Controls: Use the arrow keys (Up and Down) to move the paddle up and down.
 
-Use the arrow keys (Up and Down) to move the paddle up and down.
-
-Player 2 Controls:
-
-Use the W key to move the paddle up.
-Use the S key to move the paddle down.
+- Player 2 Controls: Use the W key to move the paddle up. Use the S key to move the paddle down.
 
 #### Objective:
 
