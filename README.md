@@ -2,7 +2,7 @@
 This game allows two players to compete against each other in a classic Pong match, 
 controlling their respective paddles using different sets of keys.
 
-Instructions
+Instructions:
 Player 1 Controls:
 Use the arrow keys (Up and Down) to move the paddle up and down.
 
