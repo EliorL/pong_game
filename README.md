@@ -15,7 +15,7 @@ Score points by making the ball pass the opponent's paddle.
 
 #### Game Features:
 
-- The game continues save players score to a file.
+- The game continues update players score during runtime.
 - The ball's speed increase as the game progresses.
 
 #### How to Run the Game:
